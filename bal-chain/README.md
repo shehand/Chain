@@ -5,6 +5,6 @@
 
 - install Ballerina in your local.
     - Visit https://ballerina.io to download and try ballerina.
-- cd to the ballerina root project. I here it is bal-chain.
+- cd to the ballerina root project. In here it is bal-chain.
 - run the command.
     - `ballerina run chain`
