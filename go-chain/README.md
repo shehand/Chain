@@ -4,7 +4,7 @@
 ## Go lang Guideline
 
 - install Go lang in your local.
-    - Visit https://golang.org/ to download and try ballerina.
+    - Visit https://golang.org/ to download and try go.
 - cd to the go root project. I here it is go-chain.
 - run the command.
     - `go run *.go`
