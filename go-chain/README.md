@@ -5,6 +5,6 @@
 
 - install Go lang in your local.
     - Visit https://golang.org/ to download and try go.
-- cd to the go root project. I here it is go-chain.
+- cd to the go root project. In here it is go-chain.
 - run the command.
     - `go run *.go`
