@@ -3,7 +3,7 @@
 
 ## Ballerina Guideline
 
-- install ballerina in your local.
+- install Ballerina in your local.
     - Visit www.ballerina.io to download and try ballerina.
 - cd to the ballerina root project. I here it is bal-chain.
 - run the command.
